@@ -1,7 +1,7 @@
 <!-- Animated Name Header -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+J Yadagiri" alt="Typing Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+[Your+Name]" alt="J Yadagiri" />
   </a>
 </h1>
 
@@ -91,3 +91,12 @@ graph LR
   C --> D[Biomedical Systems]
   C --> E[Industrial Automation]
   C --> F[Neural PDE Solvers]
+<!-- Dynamic Contribution Graph -->
+<h2 align="center">🐍 Code Flow Dynamics</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x7z9/x7z9/output/assets/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x7z9/x7z9/output/assets/snake.svg">
+    <img alt="Contribution Heatmap" src="https://raw.githubusercontent.com/x7z9/x7z9/output/assets/snake.svg">
+  </picture>
+</div>
