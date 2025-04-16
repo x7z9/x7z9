@@ -1,0 +1,35 @@
+# GitHub Action for generating a contribution graph with a water flow effect.  
+  
+name: Generate Water Flow  
+  
+# Controls when the action will run. This action runs every 6 hours.  
+on:  
+  schedule:  
+    # every 6 hours  
+    - cron: "0 */6 * * *"  
+  
+  # This command allows us to run the Action automatically from the Actions tab.  
+  workflow_dispatch:  
+  
+# The sequence of runs in this workflow:  
+jobs:  
+  # This workflow contains a single job called "build"  
+  build:  
+    # The type of runner that the job will run on  
+    runs-on: ubuntu-latest  
+  
+    # Steps represent a sequence of tasks that will be executed as part of the job  
+    steps:  
+  
+      # Checks repo under $GITHUB_WORKSPACE, so your job can access it  
+      - uses: actions/checkout@v2  
+  
+      # Generates the water flow effect  
+      - uses: Platane/snk@master  
+        id: water-flow-gif  
+        with:  
+          github_user_name: x7z9  # Replace with your GitHub username  
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.  
+          gif_out_path: dist/github  
+          # Additional parameters can be added here to customize the water flow effect  
+          # For example, you might want to adjust colors or shapes to resemble water  
