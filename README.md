@@ -91,6 +91,7 @@ graph LR
   C --> D[Biomedical Systems]
   C --> E[Industrial Automation]
   C --> F[Neural PDE Solvers]
+
 <!-- Dynamic Contribution Graph -->
 <h2 align="center">🐍 Code Flow Dynamics</h2>
 <div align="center">
