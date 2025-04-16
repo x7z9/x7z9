@@ -41,4 +41,4 @@ Feel free to reach out for collaboration, questions, or discussions related to t
 Thank you for visiting my GitHub profile! Let's connect and innovate together! 🚀   
 
 <!-- Dynamic Contribution Graph -->
-![snake gif](https://github.com/x7z9/x7z9/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/x7z9/x7z9/blob/output/github-contribution-waterflow.gif)
