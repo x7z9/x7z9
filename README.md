@@ -93,4 +93,4 @@ graph LR
   C --> F[Neural PDE Solvers]
 
 <!-- Dynamic Contribution Graph -->
-![snake gif](https://github.com/x7z9/x7z9/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/x7z9/x7z9/blob/output/github-contribution-grid-snake.gif)
