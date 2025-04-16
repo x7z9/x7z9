@@ -93,11 +93,4 @@ graph LR
   C --> F[Neural PDE Solvers]
 
 <!-- Dynamic Contribution Graph -->
-<h2 align="center">🐍 Code Flow Dynamics</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x7z9/x7z9/output/assets/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x7z9/x7z9/output/assets/snake.svg">
-    <img alt="Contribution Heatmap" src="https://raw.githubusercontent.com/x7z9/x7z9/output/assets/snake.svg">
-  </picture>
-</div>
+![snake gif](https://github.com/x7z9/x7z9/blob/output/github-snake-dark.svg)
